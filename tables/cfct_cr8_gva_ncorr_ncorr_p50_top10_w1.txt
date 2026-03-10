@@ -1,0 +1,16 @@
+& \multicolumn{2}{c}{\textbf{South}} & \multicolumn{2}{c}{\textbf{North}} & \multicolumn{3}{c}{\textbf{Italy}}\\ & (1) & (2) & (3) & (4) & (5) & (6) & (7) \\ &Level&Change &Level& Change &Level& Change &Change \% \\ \cmidrule(lr){2-3} \cmidrule(lr){4-5} \cmidrule(lr){6-8} \vspace{-0.3em}
+\\[-0.7em] \multicolumn{8}{l}{\textbf{Average hourly wage:} \textit{in Euros}}\\
+\hline
+Status quo \hspace{2em}&8.36&&8.68&&8.54&& \\
+Counterfactual 1&7.38&-0.98&8.39&-0.30&7.94&-0.60&-7.00 \\
+Counterfactual 2&6.93&-1.43&8.25&-0.43&7.66&-0.88&-10.28 \\
+\\[-0.7em] \multicolumn{8}{l}{\textbf{Employment rate:} \textit{in \% corrected for informal work}}\\
+\hline
+Status quo \hspace{2em}&57.32&&71.00&&64.86&& \\
+Counterfactual 1&69.66&12.35&71.32&0.32&70.58&5.72&11.01 \\
+Counterfactual 2&71.34&14.03&71.82&0.82&71.61&6.75&12.78 \\
+\\[-0.7em] \multicolumn{8}{l}{\textbf{Aggregate labor income per capita:} \textit{in Euros per month} }\\
+\hline
+Status quo \hspace{2em}&766.63&&986.68&&887.89&& \\
+Counterfactual 1&822.80&56.17&957.39&-29.29&896.97&9.07&2.62 \\
+Counterfactual 2&790.23&23.60&948.41&-38.27&877.40&-10.50&0.11 \\

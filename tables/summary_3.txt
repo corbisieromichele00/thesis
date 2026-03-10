@@ -1,0 +1,15 @@
+\textbf{Italy}& Mean & SD & N \\ \hline
+Value added per worker&54837&6227&103 \\
+Local CPI&100.0&16.19&103 \\
+Local housing price&100.0&25.17&103 \\
+Nominal wage - hourly&8.5&0.44&103 \\
+Real wage - hourly&8.8&1.47&103 \\
+Non-empl rate&42.5&9.58&103 \\
+Non-empl rate corrected&34.0&7.55&103 \\
+[.1 em] \textbf{Germany}&&&\\ \hline
+Value added per worker&52901&8134&96 \\
+Local CPI&100.0&14.18&96 \\
+Local housing price&100.0&18.53&96 \\
+Nominal wage - daily&91.6&11.28&96 \\
+Real wage - daily&92.3&10.77&96 \\
+Non-empl rate&27.9&3.59&96 \\
