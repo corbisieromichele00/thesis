@@ -1,0 +1,36 @@
+Read me file for supporting materials of the paper “Wage Equalization and Regional Misallocation: Evidence from Italian and German Provinces” by Tito Boeri, Andrea Ichino, Enrico Moretti and Johanna Posch
+
+
+——DATA——
+This folder contains the data files needed to produce the figures and tables presented in the paper in the folder “data”.
+
+The file bargaining.dta is aggregated data on industry contracts and opening clauses based on the IAB Establishment Panel, Wave(s) 1996 - 2013. Data access was provided via on-site use at the Research Data Centre (FDZ) of the German Federal Employment Agency (BA) at the Institute for Employment Research (IAB) and/or remote data execution.
+
+The file amenities.dta contains data on indicators of amenities by province based on the "Indagine sulla Qualita della vita"" conducted every year by the Italian financial newspaper "Sole24ore”.
+
+The file province_data.dta contains the other variables by province constructed according to the methodology described in the online appendix. These include wages adjusted for workforce composition, CPI and house price indices, real wages, non employment rate, rate of irregular employment and gross value added per worker.
+
+prov2001xy_new.dta and ror1xy.dta are shapefiles to draw maps for Italy and Germany respectively.
+
+——SCRIPT——
+This folder contains the script necessary to produce the tables and figures presented in the paper and its online appendix.
+
+The script figures_tables.do is the only script that is required to run all analyses.
+
+Before running the script, please insert you own path to this datapack folder.
+Outputs are automatically written in the folders “figures” and “tables”.
+
+The script is structured in sections that produce similar figures and tables.
+
+Section 1 provides summary statistics for the data as shown in Table B-1.
+Section 2 draws the maps and histograms produced in the paper and shown in Figures 2, 3, 5, 7, B-1, B-3, B-4, B-5.
+Section 3 draws the scatter plots presented in the paper and shown in Figures 4, 6, 8, B-2.
+Section 4 produces the regression tables presented in the paper and shown in Tables 4, 5, 6, 7, B-3, B-4, B-5.
+Section 5 produces the figures and tables related to the analysis of the counterfactual scenarios and presented in Tables 9, B-6, B-7, B-8 and Figures B-6 and B-7.
+Section 6 produces Table 3 related to collective bargaining coverage and opening clauses.
+Section 7 produces Table 8 related to quality of life indicators across provinces.
+
+The folder “temp” is used to write temporary files needed to perform the analysis.
+
+Note that this script does not reproduce Tables 1 and 2 of the paper the sources of which are clearly described in the respective notes.
+Table B-2 of the online appendix is based on individual level wages for both countries. Due to confidentiality of these data, this table cannot be reproduced within this datapack. Please contact the authors if you require further information about the reproducibility of the results presented in this table.
